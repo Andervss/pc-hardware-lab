@@ -8,6 +8,16 @@ This repository documents practical hardware work carried out on an older **Adve
 
 The aim is to build familiarity with PC components and gain hands-on experience working inside a desktop computer, including identifying components, removing and reconnecting hardware, cleaning, and troubleshooting issues after reassembly.
 
+## Tools & Approach
+
+Only basic tools were needed for this exercise, did not need to buy:
+
+- Phillips screwdriver
+- Compressed air for dust removal
+- Small container for screws
+
+I kept screws organised according to where they came from so they could be returned to the correct locations during reassembly. I also took care when disconnecting components and checked the relevant connectors before removing them.
+
 ## System
 
 | Component    | Specification      |
