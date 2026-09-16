@@ -6,7 +6,7 @@ A hands-on PC hardware learning project covering component identification, maint
 
 This repository documents practical hardware work carried out on an older Advent DT2412 desktop PC.
 
-The aim is to build familiarity with PC components and gain hands-on experience working inside a desktop computer.
+The project is mainly driven by personal interest and curiosity, while also giving me an opportunity to build hands-on experience with PC hardware, maintenance, and troubleshooting.
 
 ## System
 
